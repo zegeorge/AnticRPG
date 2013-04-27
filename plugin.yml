@@ -1,0 +1,13 @@
+name: Antic RPG
+main: me.zegeorge.main.AnticRPG
+version: 0.1
+author: Grumm2 & anisredbull
+commands:
+    pet:
+        description: Spawn a custom items
+    help:
+        description: hELP Command
+    m:
+        description: Msg Command
+    meta:
+        description: Muie
